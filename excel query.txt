@@ -1,0 +1,28 @@
+ms excel
+
+to remove null values
+   select all data (Ctrl +A)
+   click ctrl + g
+   click on special
+   click on blanks 
+   ok
+   click ctrl + -
+   select shift cells up 
+   ok
+
+
+                 or 
+
+ select data
+on the home tab click on find and select
+   click on goto 
+   select blank 
+    right click on table then 
+select shift cells up 
+ok
+
+--------------------------------------------------------------------------
+
+ttps://www.airtelxstream.in/movies/telugu-movies(movie website airtel)
+
+---------------------------------------------------------------------------
